@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+.App {
+  font-family: 'Mitr', sans-serif;
+  text-align: center;
+}
+
+input{
+  padding: 1rem;
+  width: 90%;
+}
