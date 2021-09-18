@@ -42,7 +42,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>What an emoji mean?</h1>
-      <input onChange={searchEmoji}></input>
+      <input onChange={searchEmoji} placeholder="search from here"></input>
       <h2>{meaning}</h2>
       <ul>
         {
